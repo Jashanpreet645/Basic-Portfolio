@@ -10,4 +10,5 @@ This repository contains a simple portfolio website built using HTML and CSS. It
   - Projects
   - Contact Information
   
-# Screenshots
+# Screenshots 
+![image](https://github.com/Jashanpreet645/Basic-Portfolio/blob/main/portfolio%20screenshot.jpg)
